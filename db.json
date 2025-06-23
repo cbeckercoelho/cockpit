@@ -1,23 +1,14 @@
 [
-    {
-        "channelOrder": 2,
-        "placeOrder": 1,
-        "gridId": 751543,
-        "channelId": 216,
-        "channelType": 2,
-        "channel": "VIVA",
-        "placeId": 821,
-        "place": "VIVA (NACIONAL)",
-        "gridDate": "2025-06-24",
-        "lastGridIntegrationSuccess": "2025-06-20T12:31:17",
-        "orderNotDistribuited": 7,
-        "qualityAlerts": 17,
-        "criticAlerts": 17,
-        "exported": "2025-06-20T12:45:48",
-        "gridStatusPlaylist": 2,
-        "lastGridStatus": "2025-06-20T12:41:47",
-        "playlistExportationType": 7,
-        "statusExport": 2,
-        "errorExport": 1
-    }
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
